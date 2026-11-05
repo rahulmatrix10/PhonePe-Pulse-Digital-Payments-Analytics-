@@ -9,7 +9,7 @@ An end-to-end analytics project on PhonePe's open **Pulse** data: how digital pa
 > | JSON → flat tables (Python) | Done |
 > | Excel profiling + Power Query modelling | Done |
 > | MySQL analysis (14 business queries) | Done |
-> | Power BI dashboard | In progress |
+> | Power BI dashboard | Done |
 > | Tableau dashboard | Planned |
 
 ---
@@ -93,6 +93,15 @@ Columns added in Power Query: `avg_txn_value`, `amount_crore`, `txn_per_user`, `
 - **Transactions per user** = one quarter's transactions ÷ all registered users, so inactive users pull the figure down.
 - **Value per merchant** includes person-to-person payments, so it is a rough indicator, not true merchant sales.
 - Category data has counts only, not rupee amounts.
+
+## Dashboard (Power BI)
+
+![Overview](images/overview.png)
+![States and Districts](images/states_districts.png)
+![Users and Merchants](images/users_merchants.png)
+
+More detail: [powerbi/README.md](powerbi/README.md)
+
 
 
 ## How to reproduce
