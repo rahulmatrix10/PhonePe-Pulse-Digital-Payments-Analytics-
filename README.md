@@ -118,6 +118,6 @@ Python (pandas), Excel, Power Query, MySQL 8.0, Power BI, Tableau
 ## Author
 
 **Rahul Ballidav**, aspiring data analyst, Bengaluru.
-LinkedIn:linkedin.com/in/rahulballidav07  GitHub: https://github.com/rahulmatrix10
+LinkedIn: linkedin.com/in/rahulballidav07  GitHub: https://github.com/rahulmatrix10
 
 *Data: PhonePe Pulse, © PhonePe, used under CDLA-Permissive-2.0.*
