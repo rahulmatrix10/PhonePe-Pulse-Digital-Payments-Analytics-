@@ -1,0 +1,19 @@
+{
+  "name": "PhonePe Analytics",
+  "dataColors": ["#5F259F", "#8E5CD9", "#B794F4", "#2D9CDB", "#F2994A", "#27AE60", "#EB5757", "#828282"],
+  "background": "#FFFFFF",
+  "foreground": "#2B2B2B",
+  "tableAccent": "#5F259F",
+  "good": "#27AE60",
+  "neutral": "#F2994A",
+  "bad": "#EB5757",
+  "minimum": "#E9DFF7",
+  "center": "#B794F4",
+  "maximum": "#5F259F",
+  "textClasses": {
+    "callout": { "fontSize": 28, "fontFace": "Segoe UI Semibold", "color": "#2B2B2B" },
+    "title":   { "fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#5F259F" },
+    "header":  { "fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#2B2B2B" },
+    "label":   { "fontSize": 10, "fontFace": "Segoe UI", "color": "#5A5A5A" }
+  }
+}
